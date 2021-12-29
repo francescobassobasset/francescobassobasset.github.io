@@ -14,4 +14,4 @@ My current research activities mainly focus on the study, optimization, and appl
 
 Before moving to Rome, I received the B.S. and M.S. degrees in Physics from the University of Milan in 2014 and the Ph.D. degree in Materials Science and Nanotechnology in 2018 from the University of Milano-Bicocca. During my Ph.D., I worked in the Laboratory of Semiconductor Spectroscopy in active collaboration with the interuniversity center L-NESS in Como and the Johannes Kepler University in Linz (8-month research period abroad). Throughout the years, I had the opportunity to collaborate with partners from many institutions across Europe:  Johannes Kepler University Linz (Prof. Armando Rastelli), University of Paderborn (Prof. Klaus D. Jöns), KTH Stockholm (Prof. Val Zwiller), Tyndall National Institute Cork (Prof. Emanuele Pelucchi), University of Milano-Bicocca (Prof. Stefano Sanguinetti), Sapienza University of Rome (Prof. Fabio Sciarrino).
 
-![](/images/profile.png)
+![](/images/homepage.jpg)
