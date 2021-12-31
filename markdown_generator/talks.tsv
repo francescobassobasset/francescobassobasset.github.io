@@ -1,5 +1,19 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+YIQIS 2020, Young Italian Quantum Information Science Conference	Invited talk	invtalk-4		09/2020	online		
+PQE-2019, 49th Winter Colloquium on the Physics of Quantum Electronics	Invited talk	invtalk-3		01/2019	Snowbird, Utah, USA		
+NanoInnovation 2018	Invited talk	invtalk-2	Sapienza University of Rome	09/2018	Rome, Italy		
+"Semicon Nano 2017, 6th International Workshop, Epitaxial Growth and Fundamental
+Properties of Semiconductor Nanostructures"	Invited talk	invtalk-1	Centro Congressi Sala Bianca del Teatro Sociale	09/2017	Como, Italy		
+IQIS 2021, 13th Italian Quantum Information Science Conference	Talk	talk-8	Centro Congressi Federico II	10/2021	Napoli, Italy		
+OECS 17, International conference on optics of excitons in confined systems	Talk	talk-7		09/2021	online		
+QD2020, 11th International Conference on Quantum Dots	Talk	talk-6		12/2020	online		
+QTech 2020, Quantum Technology International Conference	Talk	talk-5		11/2020	online		
+Quantum 2020, IOP Publishing Virtual Conference	Talk	talk-4		10/2020	online		
+POM20, Photonics Online Meetup 1st edition	Talk	talk-3		01/2020	online		
+Italian Crystal Growth 2017, Materials and Methods in Crystal growth	Talk	talk-2	University of Milano-Bicocca	11/2017	Milano, Italy		
+FisMat 2017, Italian National Conference on the Physics of Matter	Talk	talk-1	ICTP-SISSA Miramare Campus	10/2017	Trieste, Italy		
+QLight 2019, Quantum devices for non-classical light generation and manipulation	Poster	poster-5	Centro di Cultura Scientifica Ettore Majorana	10/2019	Erice, Italy		
+NOEKS 14, 14th lnternational Conference on Nonlinear Optics and Excitation Kinetics in Semiconductors	Poster	poster-4	TU Berlin	09/2018	Berlin, Germany		
+OECS 2017, International conference on optics of excitons in confined systems	Poster	poster-3	University of Bath	09/2017	Bath, UK		
+19th International Winterschool on New Developments in Solid State Physics	Poster	poster-2		02/2016	Mauterndorf, Austria		
+International solid-state physics school Epioptics-13 and workshop Silicene-1	Poster	poster-1	Centro di Cultura Scientifica Ettore Majorana	07/2014	Erice, Italy		

@@ -9,33 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+Find [here](https://fbassobasset.github.io/files/CV_eng_FBB_20211231.pdf) a detailed PDF version of my academic CV (last update on January, 2022).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 03/2018: Ph.D. in Materials Science and Nanotechnology, University of Milano-Bicocca.<br>
+[Thesis](https://fbassobasset.github.io/files/PhD_thesis_FBB.pdf) title: GaAs nanostructures for the generation of entangled photons: design,
+development, and spectroscopy.
+* 07/2014: M.S. in Physics, University of Milan.<br>
+Thesis title: Elastic and plastic properties of Ge mesostructures integrated on Si investigated
+by optical spectroscopy.
+* 02/2012: B.S. in Physics, University of Milan.<br>
+Thesis title: Time-resolved emission spectroscopy of free carbon clusters.
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 03/2021–01/2022: Postdoctoral Researcher at the Sapienza University of Rome under the project FET Open QUROPE.
+* 02/2018–02/2021: Postdoctoral Researcher at the Sapienza University of Rome under the project ERC Starting Grant SPQRel.  
+* 11/2016–06/2017: Research Traineeship at the Johannes Kepler University Linz, Institute of Semiconductor and Solid State Physics.
+8-month abroad research period, also supported by the Erasmus+ Traineeship program.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -53,7 +47,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
