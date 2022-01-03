@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Find [here](https://fbassobasset.github.io/files/CV_eng_FBB_20211231.pdf) a detailed PDF version of my academic CV (last update on January, 2022).
+Find [here](https://francescobassobasset.github.io/files/CV_eng_FBB_20211231.pdf) a detailed PDF version of my academic CV (last update on January, 2022).
 
 Education
 ======
 * 03/2018: Ph.D. in Materials Science and Nanotechnology, University of Milano-Bicocca.<br>
-[Thesis](https://fbassobasset.github.io/files/PhD_thesis_FBB.pdf) title: GaAs nanostructures for the generation of entangled photons: design,
+[Thesis](https://francescobassobasset.github.io/files/PhD_thesis_FBB.pdf) title: GaAs nanostructures for the generation of entangled photons: design,
 development, and spectroscopy.
 * 07/2014: M.S. in Physics, University of Milan.<br>
 Thesis title: Elastic and plastic properties of Ge mesostructures integrated on Si investigated
