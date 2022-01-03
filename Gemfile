@@ -10,8 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 # The first two lines were added to successfully run the local server
-#gem 'tzinfo-data', platforms: [:x64_mingw, :mingw, :mswin]
-#gem "webrick"
+gem 'tzinfo-data', platforms: [:x64_mingw, :mingw, :mswin]
+gem "webrick"
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
