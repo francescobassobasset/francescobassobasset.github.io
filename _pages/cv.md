@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Find [here](https://francescobassobasset.github.io/files/CV_eng_FBB_20211231.pdf) a detailed PDF version of my academic CV (last update on January, 2022).
+Find [here](https://francescobassobasset.github.io/files/CV_eng_FBB_20220201.pdf) a detailed PDF version of my academic CV (last update on February, 2022).
 
 Education
 ======
@@ -25,6 +25,7 @@ Thesis title: Time-resolved emission spectroscopy of free carbon clusters.
 
 Work experience
 ======
+* 02/2022–current: Researcher (RTDa) at the Sapienza University of Rome (FIS/03 sector 02/B1).
 * 03/2021–01/2022: Postdoctoral Researcher at the Sapienza University of Rome under the project FET Open QUROPE.
 * 02/2018–02/2021: Postdoctoral Researcher at the Sapienza University of Rome under the project ERC Starting Grant SPQRel.  
 * 11/2016–06/2017: Research Traineeship at the Johannes Kepler University Linz, Institute of Semiconductor and Solid State Physics.
