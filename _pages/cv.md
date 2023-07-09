@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Find [here](https://francescobassobasset.github.io/files/CV_eng_FBB_20220201.pdf) a detailed PDF version of my academic CV (last update on February, 2022).
+Find [here](https://francescobassobasset.github.io/files/CV_eng_FBB_20230709.pdf) a detailed PDF version of my academic CV (last update on July, 2023).
 
 Education
 ======
