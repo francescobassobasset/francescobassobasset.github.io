@@ -25,7 +25,8 @@ Thesis title: Time-resolved emission spectroscopy of free carbon clusters.
 
 Work experience
 ======
-* 02/2022–current: Researcher (RTDa) at the Sapienza University of Rome (FIS/03 sector 02/B1).
+* 04/2025–current: Tenure-track Assistant Professor (RTT, PHYS-03/A 02/PHYS-03) in the Physics Depertment of the Politecnico di Milano.
+* 02/2022–01/2025: Researcher (RTDa, FIS/03 02/B1) at the Sapienza University of Rome.
 * 03/2021–01/2022: Postdoctoral Researcher at the Sapienza University of Rome under the project FET Open QUROPE.
 * 02/2018–02/2021: Postdoctoral Researcher at the Sapienza University of Rome under the project ERC Starting Grant SPQRel.  
 * 11/2016–06/2017: Research Traineeship at the Johannes Kepler University Linz, Institute of Semiconductor and Solid State Physics.

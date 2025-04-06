@@ -10,7 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 # The first two lines were added to successfully run the local server
-gem 'tzinfo-data', platforms: [:x64_mingw, :mingw, :mswin]
+# gem 'tzinfo-data', platforms: [:x64_mingw, :mingw, :mswin]
+gem 'tzinfo-data'
 gem "webrick"
 gem "github-pages", group: :jekyll_plugins
 
@@ -19,7 +20,8 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", "~> 0.1.0" if Gem.win_platform? # Old version, incompatible with newer Ruby
+gem "wdm", "~> 0.2.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

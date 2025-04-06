@@ -10,7 +10,7 @@ locale                   : "it-IT"
 title                    : "Francesco Basso Basset"
 title_separator          : "-"
 name                     : &name "Francesco Basso Basset"
-description              : &description "Researcher at the Physics Department of the Sapienza University"
+description              : &description "Tenure-track Assistant Professor (RTT) in the Physics Department of Politecnico di Milano"
 url                      : https://francescobassobasset.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "francescobassobasset/francescobassobasset.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Francesco Basso Basset"
   avatar           : "profile.png"
-  bio              : "Researcher at the Physics Department of the Sapienza University"
-  location         : "Rome, IT"
+  bio              : "Tenure-track Assistant Professor (RTT) in the Physics Department of Politecnico di Milano"
+  location         : "Milan, IT"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0_u_-3oAAAAJ&hl=it&oi=ao"
-  email            : "francesco.bassobasset@uniroma1.it"
+  email            : "francesco.basso@polimi.it"
   researchgate     : 
   uri              :
   bitbucket        :
